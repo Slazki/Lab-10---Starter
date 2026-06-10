@@ -8,8 +8,7 @@
 
 ## Contributors
 
-- Your name: TODO
-- Partner name: TODO
+- Your name: Fahad Majidi
 
 ## Notes
 
