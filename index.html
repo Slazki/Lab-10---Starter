@@ -42,6 +42,16 @@
       <audio class="hidden" src=""></audio>
     </section>
   </main>
+  <script>
+    // Randomly assign visitors to the blue-background A/B test group.
+    const randomNumber = Math.random();
+    const shouldApplyClass = randomNumber < 0.5;
+    const body = document.querySelector('body');
+
+    if (shouldApplyClass) {
+      body.classList.add('blue');
+    }
+  </script>
 </body>
 
 </html>
