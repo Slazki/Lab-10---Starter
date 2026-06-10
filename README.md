@@ -13,4 +13,4 @@
 ## Notes
 
 - The index page includes the required 50/50 blue-background A/B test.
-- Add the Google Analytics screenshot at `screenshots/google-analytics.png` before submitting.
+- The Google Analytics proof screenshot is saved at `screenshots/google-analytics.png`.
